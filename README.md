@@ -1,8 +1,7 @@
 # Raster-editor
  
 
-Start
-=====
+### Start
 
 Tested with Python 3.6.4 on Windows 10, but probably can run on any OS. 
 You'll need 3d party libs: Numpy and Pygame. 
@@ -20,8 +19,7 @@ By default it will open the "untitled00.txt" file.
 Documents are stored as an 2-D array in a txt file.
 
 
-How  to  draw
-===========
+### How  to  draw
 
 Click on a tile in the top palette bar, or right-click on any canvas cell to 
 select a tile to draw. Then draw in the main window area.
