@@ -1,13 +1,15 @@
-# Raster Editor #
-Written by Mikhail Vasilev, 2017 
-
+##
+##   Raster Editor 
+##
+##   Written by Mikhail Vasilev, 2017 
+##
 
 This is a demo of a tile-based image editor written in Python. 
 You can draw objects using a set of tiles and create various cool geometrical patterns. 
 Currently there are only some basic functions supported. 
 To customize the tilesets or to extend the functionality, edit the source code.
 
-### Start 
+** Start ** 
 
 Tested with Python 3.6.4 on Windows 10, but probably can run on any OS. 
 You'll need 3d party libs: Numpy and Pygame. 
@@ -25,7 +27,7 @@ By default it will open the "untitled00.txt" file.
 Documents are stored as an 2-D array in a txt file.
 
 
-### How to draw 
+** How to draw **
 
 Click on a tile in the top palette bar, or right-click on any canvas cell to 
 select a tile. Then draw in the main window area.
